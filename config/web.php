@@ -62,11 +62,11 @@ $config = [
         ],
         'sms' => [
             'class' => 'app\components\Sms',
-            'token' => '0fe591a895e4472df4c831452a4dadf6',
+            'token' => '',
         ],
         'sklad' => [
             'class' => 'app\components\Mysklad',
-            'token' => 'dmljdG9yaWFAcm9nZXJza2xhZDo5MTFWaWN0b3JpYQ',
+            'token' => '',
         ],
         'view' => [
             'theme' => [
